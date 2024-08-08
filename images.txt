@@ -1,3 +1,1 @@
-nginx
-#支持私库
 gitlab/gitlab-ce:16.7.9-ce.0
